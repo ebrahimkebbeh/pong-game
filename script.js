@@ -10,7 +10,7 @@ const paddle2Color = "green";
 const paddleBorder = "green";
 const ballColor = "yellow";
 const ballBorderColor = "black";
-const ballRadius = 12.5;
+const ballRadius = 12.5;4
 const paddleSpeed = 50;
 let intervalID;
 let ballSpeed = 1;
